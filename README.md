@@ -1,6 +1,6 @@
 # Sistema de Gerenciamento de Estoque (CLI + SQLite)
+## EDUARDO FERNANDES 22552011
 
-## 📌 Descrição
 Este projeto implementa um **sistema de gerenciamento de estoque** simples em **Python**, utilizando **SQLite** como banco de dados.  
 O sistema é totalmente interativo via **linha de comando (CLI)** e permite operações básicas de CRUD (Criar, Ler, Atualizar e Deletar).
 
