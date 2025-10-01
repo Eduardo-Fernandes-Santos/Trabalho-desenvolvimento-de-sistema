@@ -116,8 +116,5 @@ def menu():
 
     conexao.close()
 
-# =========================
-# Execução do Programa
-# =========================
 if __name__ == "__main__":
     menu()
